@@ -1,0 +1,1 @@
+window.html_sanitize("hi");
